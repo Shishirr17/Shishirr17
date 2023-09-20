@@ -1,12 +1,12 @@
 <h1 >Hi 👋, I'm Shishir Srivastava</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirr17&label=Profile%20views&color=0e75b6&style=flat" alt="shishirr17" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 - 🤝 I’m currently **Exploring MERN stack and my open source skills.**
 - 📫 How to reach me: **shishir170103@gmail.com**
 - 💬 Ask me about Good First Issues & Exciting Projects to work on.
 - 👨‍  Pronouns: He/Him
 - ⚡ Fun fact **I also do sketching .**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
