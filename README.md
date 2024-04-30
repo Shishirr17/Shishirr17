@@ -6,7 +6,6 @@
 - 📫 How to reach me: **shishir170103@gmail.com**
 - 💬 Ask me about Good First Issues & Exciting Projects to work on.
 - 👨‍  Pronouns: He/Him
-- ⚡ Fun fact **I also do sketching .**
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/Shishirr17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shishir__17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shishir-srivastava-419790220
