@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirr17&label=Profile%20views&color=0e75b6&style=flat" alt="shishirr17" /> </p>
 
 - 🤝 I’m currently **Exploring MERN stack and my open source skills.**
-- 📫 How to reach me: **shishir170103@gmail.com**
+- 📫 How to reach me: **shishirsrivastava506@gmail.com**
 - 💬 Ask me about Good First Issues & Exciting Projects to work on.
 - 👨‍  Pronouns: He/Him
 
